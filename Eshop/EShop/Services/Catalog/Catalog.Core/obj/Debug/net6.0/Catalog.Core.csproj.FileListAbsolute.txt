@@ -1,0 +1,36 @@
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.deps.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\refint\Catalog.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\ref\Catalog.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.deps.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\refint\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog\Catalog.Core\obj\Debug\net6.0\ref\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.deps.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\refint\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.Core\obj\Debug\net6.0\ref\Catalog.Core.dll

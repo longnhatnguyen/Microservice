@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.application\\mappers\\basketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\mappers\\basketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.application\\responses\\shoppingcartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\responses\\shoppingcartresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.core\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.core\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\entities\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80CCF52-8ADB-4F26-AB47-BBAC92086156}|Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.infrastructure\\repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80CCF52-8ADB-4F26-AB47-BBAC92086156}|Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj|solutionrelative:services\\basket\\basket.infrastructure\\repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.application\\responses\\shoppingcartitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\responses\\shoppingcartitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80CCF52-8ADB-4F26-AB47-BBAC92086156}|Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.infrastructure\\basket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A80CCF52-8ADB-4F26-AB47-BBAC92086156}|Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj|solutionrelative:services\\basket\\basket.infrastructure\\basket.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C16B29-E442-49B1-AF67-D355278E1D17}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\catalog\\catalog.core\\catalog.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78C16B29-E442-49B1-AF67-D355278E1D17}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\catalog.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.core\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.core\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.core\\entities\\basketcheckoutv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\entities\\basketcheckoutv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.core\\basket.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\basket.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80CCF52-8ADB-4F26-AB47-BBAC92086156}|Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\basket\\basket.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80CCF52-8ADB-4F26-AB47-BBAC92086156}|Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj|solutionrelative:services\\basket\\basket.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\new folder\\eshop\\eshop\\services\\basket\\basket.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\basket\\basket.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\basket\\basket.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\brandcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C16B29-E442-49B1-AF67-D355278E1D17}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.core\\specs\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C16B29-E442-49B1-AF67-D355278E1D17}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\specs\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C16B29-E442-49B1-AF67-D355278E1D17}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.core\\specs\\catalogspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C16B29-E442-49B1-AF67-D355278E1D17}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\specs\\catalogspecparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.infrastructure\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\services\\catalog\\catalog.infrastructure\\data\\typecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\typecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:17:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingCartResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:00:47.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingCartItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:59:29.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Catalog.Core",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T15:43:39.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Repository\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Infrastructure\\Repository\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Repository\\BasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Infrastructure\\Repository\\BasketRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:41:43.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Repositories\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Repositories\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Repositories\\IBasketRepository.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Repositories\\IBasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:38:07.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\ShoppingCartItem.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\ShoppingCartItem.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Entities\\ShoppingCartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:26:18.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basket.Application",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T14:19:36.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BasketCheckout.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:26:40.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Entities\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:36:03.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasketCheckoutV2.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:37:09.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Basket.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T14:16:41.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Catalog.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T14:19:19.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Catalog.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T14:19:53.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Basket.Core",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T14:25:11.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Class1.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:19:17.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Class1.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Class1.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:16:16.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:15:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Class1.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:13:54.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T14:03:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CatalogContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:10:04.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TypeContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:09:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BrandContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:40:01.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CatalogSpecParams.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Specs\\CatalogSpecParams.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Specs\\CatalogSpecParams.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Specs\\CatalogSpecParams.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Specs\\CatalogSpecParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:05:23.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Specs\\Pagination.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Specs\\Pagination.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Specs\\Pagination.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Specs\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:05:25.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T14:38:26.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

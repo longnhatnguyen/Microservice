@@ -1,0 +1,216 @@
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.exe
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.deps.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.runtimeconfig.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.pdb
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Application.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Infrastructure.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Application.pdb
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Infrastructure.pdb
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.Catalog.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Catalog.API.props
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.API.props
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Catalog.API.props
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\scopedcss\bundle\Catalog.API.styles.css
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog..F07FDCDC.Up2Date
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\refint\Catalog.API.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\HealthChecks.MongoDb.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Data\SeedData\brands.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Data\SeedData\products.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Data\SeedData\types.json
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Seven77\Desktop\Eshop\EShop\Catalog.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Data\SeedData\brands.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Data\SeedData\products.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Data\SeedData\types.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.deps.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Application.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Infrastructure.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Application.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Infrastructure.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.Catalog.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Catalog.API.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.API.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Catalog.API.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\scopedcss\bundle\Catalog.API.styles.css
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog..F07FDCDC.Up2Date
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\refint\Catalog.API.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.exe
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Catalog.API.runtimeconfig.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\HealthChecks.MongoDb.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.API.exe
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Data\SeedData\brands.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Data\SeedData\products.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Data\SeedData\types.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.API.deps.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.API.runtimeconfig.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.API.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.API.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\HealthChecks.MongoDb.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.Application.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.Infrastructure.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.Application.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.Infrastructure.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\bin\Debug\net6.0\Catalog.Core.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.Catalog.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Catalog.API.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Catalog.API.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Catalog.API.props
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\scopedcss\bundle\Catalog.API.styles.css
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog..F07FDCDC.Up2Date
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\refint\Catalog.API.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\Catalog.API.genruntimeconfig.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Catalog\Catalog.API\obj\Debug\net6.0\ref\Catalog.API.dll
