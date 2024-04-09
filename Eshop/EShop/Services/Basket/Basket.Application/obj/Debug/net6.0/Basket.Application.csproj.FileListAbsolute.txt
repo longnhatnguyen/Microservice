@@ -1,0 +1,15 @@
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.Application.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.Application.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.Application.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.Application.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\bin\Debug\net6.0\Basket.Application.deps.json
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\bin\Debug\net6.0\Basket.Application.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\bin\Debug\net6.0\Basket.Application.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\bin\Debug\net6.0\Basket.Core.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\bin\Debug\net6.0\Basket.Core.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.A.E41EB0DD.Up2Date
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.Application.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\refint\Basket.Application.dll
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\Basket.Application.pdb
+C:\Users\Seven77\Desktop\New folder\Eshop\EShop\Services\Basket\Basket.Application\obj\Debug\net6.0\ref\Basket.Application.dll
