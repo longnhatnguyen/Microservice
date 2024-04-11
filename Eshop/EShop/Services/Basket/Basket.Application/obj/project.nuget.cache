@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4elbUpUxhdlj/ezlH2bfXq0fzgyMDhLWNzpFANBEHOU43eHpc7xOHkTZyyw0U7UM5+AQtsOL/oMUwcyH5AIJnw==",
+  "dgSpecHash": "Qb2fCucxEiz0bskYHuDImIGNwafsiJqLzkzxC6HYRW8I7HOdpVtCwgdo46roqPRIh2nXqiZ5YEn6hpaZMlwt/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Seven77\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

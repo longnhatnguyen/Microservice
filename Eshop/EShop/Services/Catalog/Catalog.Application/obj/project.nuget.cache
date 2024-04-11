@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5nJZ8HFqwl+Cx7XCVyUTN+x0CYC48Z2AokfNPa3HAsMBq8YQ+kWOzp4BUtGn7WRaBPpdQMrQDl4eag7sFDoNNA==",
+  "dgSpecHash": "bMPpmZqIQeq4oIIFF/u83x16o0GPpcR2Bb890RJsA1ZK+4GwyVJ9YKWbq7t7UceECGX4VwrGKJxxfK/8RgzhWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Seven77\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\6.0.2\\aspnetcore.healthchecks.mongodb.6.0.2.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\6.0.5\\aspnetcore.healthchecks.ui.client.6.0.5.nupkg.sha512",

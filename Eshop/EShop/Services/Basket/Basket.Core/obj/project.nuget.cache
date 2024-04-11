@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gnR2GpkcsLvb9QcrT/0OoEd01kYUaGgfgq3rWlq7TNjS/jLJ3I0ghyI6LyJ4i8ev/lBCxu5vLmvsjrFRHT+sZQ==",
+  "dgSpecHash": "Wik3W7O+O45a0JZz/Z2Uu79QvQ9S8BQ6k7Y2aTShe/8EDpYeq7S+1l948QP7Zg9BaErRVkvxgPvmwnft/gvWtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+  "projectFilePath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

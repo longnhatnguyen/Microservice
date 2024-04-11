@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {}
+    "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
+    "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
         "projectName": "Catalog.Application",
-        "projectPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
+        "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
         "packagesPath": "C:\\Users\\Seven77\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\obj\\",
+        "outputPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Seven77\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
-                "projectPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj"
+              "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
+                "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
+    "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
         "projectName": "Catalog.Core",
-        "projectPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
+        "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
         "packagesPath": "C:\\Users\\Seven77\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\obj\\",
+        "outputPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Seven77\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+    "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
         "projectName": "Catalog.Infrastructure",
-        "projectPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Seven77\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Seven77\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -212,8 +212,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
-                "projectPath": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj"
+              "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
+                "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj"
               }
             }
           }
