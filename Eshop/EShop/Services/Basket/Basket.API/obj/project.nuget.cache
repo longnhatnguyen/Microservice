@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fRiP90+NeO9W/2RC0xWzlNky6ulkWrn2Fwo3Sm03csOPkdBPo1kF47OqSHTM4sdg2kVhqPZdaXIbWC3fJYEQVg==",
+  "dgSpecHash": "He336DbKWGnants/HsBY8MHPaExlvDqgfd12oMBLEaF6YzIL6vp+fABJGxr1qEVCwxP+zFGL1sa5ik8P9jXO/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
@@ -24,7 +24,7 @@
     "C:\\Users\\Seven77\\.nuget\\packages\\masstransit.aspnetcore\\7.3.0\\masstransit.aspnetcore.7.3.0.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\masstransit.extensions.dependencyinjection\\7.3.0\\masstransit.extensions.dependencyinjection.7.3.0.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\masstransit.rabbitmq\\7.3.0\\masstransit.rabbitmq.7.3.0.nupkg.sha512",
-    "C:\\Users\\Seven77\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Seven77\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Seven77\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.14\\microsoft.aspnetcore.authentication.jwtbearer.6.0.14.nupkg.sha512",

@@ -21,13 +21,21 @@ namespace Basket.Application.Handlers
         }
         public async Task<ShoppingCartResponse> Handle(CreateShoppingCartCommand request, CancellationToken cancellationToken)
         {
+            //var shoppingCart = await _basketRepository.UpdateBasket(new ShoppingCart
+            //{
+            //    UserName = request.UserName,
+            //    Items = request.Items,
+            //});
+
+            //var shoppingCartResponse = BasketMapper.Mapper.Map<ShoppingCartResponse>(shoppingCart); 
+            //return shoppingCartResponse;
+
             var shoppingCart = await _basketRepository.UpdateBasket(new ShoppingCart
             {
                 UserName = request.UserName,
-                Items = request.Items,
+                Items = request.Items
             });
-
-            var shoppingCartResponse = BasketMapper.Mapper.Map<ShoppingCartResponse>(shoppingCart); 
+            var shoppingCartResponse = BasketMapper.Mapper.Map<ShoppingCartResponse>(shoppingCart);
             return shoppingCartResponse;
             //foreach (var item in request.Items)
             //{
