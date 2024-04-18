@@ -3,11 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.application\\discount.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:discount\\discount.application\\discount.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.application\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:discount\\discount.application\\protos\\discount.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.application\\commands\\creatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:discount\\discount.application\\commands\\creatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7828F17-725A-4A76-A31B-609B34BFED53}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\catalog\\catalog.application\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7828F17-725A-4A76-A31B-609B34BFED53}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.application\\handlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:discount\\discount.application\\handlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:discount\\discount.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0516153F-1B21-4A57-B3C9-83B7F0FD059A}|Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0516153F-1B21-4A57-B3C9-83B7F0FD059A}|Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0516153F-1B21-4A57-B3C9-83B7F0FD059A}|Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.infrastructure\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0516153F-1B21-4A57-B3C9-83B7F0FD059A}|Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.infrastructure\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0516153F-1B21-4A57-B3C9-83B7F0FD059A}|Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:discount\\discount.infrastructure\\repositories\\discountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -18,24 +42,20 @@
       "RelativeMoniker": "D:0:0:{0516153F-1B21-4A57-B3C9-83B7F0FD059A}|Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:discount\\discount.infrastructure\\discount.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.core\\repositories\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.core\\repositories\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|solutionrelative:discount\\discount.core\\repositories\\idiscountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.core\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.core\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|solutionrelative:discount\\discount.core\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.core\\discount.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.core\\discount.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AAF87FF4-45A6-4922-BFDC-8F0794AAD86E}|Discount\\Discount.Core\\Discount.Core.csproj|solutionrelative:discount\\discount.core\\discount.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33ADE9E9-4F29-4AC6-B3E6-A0857421CBCC}|Discount\\Discount.API\\Discount.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\discount\\discount.api\\discount.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{33ADE9E9-4F29-4AC6-B3E6-A0857421CBCC}|Discount\\Discount.API\\Discount.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.api\\discount.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{33ADE9E9-4F29-4AC6-B3E6-A0857421CBCC}|Discount\\Discount.API\\Discount.API.csproj|solutionrelative:discount\\discount.api\\discount.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.application\\discount.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:discount\\discount.application\\discount.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5DAA2B7-83CD-4B37-B9C3-E49B9DEB22B5}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\catalog\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -56,10 +76,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1435DA89-C1F7-4C35-BA81-57C8985C9341}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\discount\\discount.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC9A51C-75B7-447F-A745-698A242590FB}|Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:discount\\discount.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -237,37 +253,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetBasketByUserNameHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T16:37:24.392Z",
+              "DocumentIndex": 1,
+              "Title": "Discount.proto",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Protos\\Discount.proto",
+              "RelativeDocumentMoniker": "Discount\\Discount.Application\\Protos\\Discount.proto",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Protos\\Discount.proto",
+              "RelativeToolTip": "Discount\\Discount.Application\\Protos\\Discount.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-04-15T13:57:50.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CreateDiscountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "RelativeDocumentMoniker": "Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "RelativeToolTip": "Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:55:52.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:55:43.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateDiscountCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "RelativeDocumentMoniker": "Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "RelativeToolTip": "Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:54:53.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DbExtension.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
               "RelativeDocumentMoniker": "Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
               "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
               "RelativeToolTip": "Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAYAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T16:26:56.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DiscountRepository.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Repositories\\DiscountRepository.cs",
               "RelativeDocumentMoniker": "Discount\\Discount.Infrastructure\\Repositories\\DiscountRepository.cs",
@@ -275,12 +330,11 @@
               "RelativeToolTip": "Discount\\Discount.Infrastructure\\Repositories\\DiscountRepository.cs",
               "ViewState": "AQIAABwAAAAAAAAAAADwvy4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T16:04:27.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T16:04:27.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "IDiscountRepository.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Repositories\\IDiscountRepository.cs",
               "RelativeDocumentMoniker": "Discount\\Discount.Core\\Repositories\\IDiscountRepository.cs",
@@ -288,51 +342,11 @@
               "RelativeToolTip": "Discount\\Discount.Core\\Repositories\\IDiscountRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T16:01:35.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T16:01:35.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Coupon.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Entities\\Coupon.cs",
-              "RelativeDocumentMoniker": "Discount\\Discount.Core\\Entities\\Coupon.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Entities\\Coupon.cs",
-              "RelativeToolTip": "Discount\\Discount.Core\\Entities\\Coupon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T16:00:55.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Discount.Core",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Discount.Core.csproj",
-              "RelativeDocumentMoniker": "Discount\\Discount.Core\\Discount.Core.csproj",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Discount.Core.csproj",
-              "RelativeToolTip": "Discount\\Discount.Core\\Discount.Core.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-14T16:00:29.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Discount.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
-              "RelativeToolTip": "Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-14T06:00:37.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Discount.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Discount.Application.csproj",
               "RelativeDocumentMoniker": "Discount\\Discount.Application\\Discount.Application.csproj",
@@ -345,7 +359,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "GetBasketByUserNameHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\New folder\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:37:24.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Entities\\Coupon.cs",
+              "RelativeDocumentMoniker": "Discount\\Discount.Core\\Entities\\Coupon.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Entities\\Coupon.cs",
+              "RelativeToolTip": "Discount\\Discount.Core\\Entities\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:00:55.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Discount.Core",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Discount.Core.csproj",
+              "RelativeDocumentMoniker": "Discount\\Discount.Core\\Discount.Core.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Discount.Core.csproj",
+              "RelativeToolTip": "Discount\\Discount.Core\\Discount.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T16:00:29.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Discount.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
+              "RelativeToolTip": "Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T06:00:37.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Discount\\Discount.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Class1.cs",
+              "RelativeToolTip": "Discount\\Discount.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:35:06.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Discount.API.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.API\\Discount.API.csproj",
               "RelativeDocumentMoniker": "Discount\\Discount.API\\Discount.API.csproj",
@@ -353,12 +428,11 @@
               "RelativeToolTip": "Discount\\Discount.API\\Discount.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-14T05:42:39.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T05:42:39.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Discount\\Discount.Infrastructure\\Class1.cs",
@@ -370,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Core\\Class1.cs",
               "RelativeDocumentMoniker": "Discount\\Discount.Core\\Class1.cs",
@@ -382,19 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Discount\\Discount.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Discount\\Discount.Application\\Class1.cs",
-              "RelativeToolTip": "Discount\\Discount.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T05:35:06.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Repositories\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Repositories\\IBasketRepository.cs",
@@ -406,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\ShoppingCart.cs",
@@ -418,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "ShoppingCartItemResponse.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartItemResponse.cs",
@@ -430,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ShoppingCartResponse.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Responses\\ShoppingCartResponse.cs",
@@ -442,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Catalog.API.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
@@ -450,12 +512,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-07T14:19:19.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T14:19:19.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Catalog.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
@@ -463,12 +524,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-07T14:19:53.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T14:19:53.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Catalog.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
@@ -476,12 +536,11 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T15:43:39.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T15:43:39.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "CreateShoppingCartCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
@@ -493,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "BasketController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
@@ -505,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "BasketMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
@@ -517,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
@@ -529,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
@@ -541,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Basket.API.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Basket.API.csproj",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket.API.csproj",
@@ -549,12 +608,11 @@
               "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T16:23:18.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T16:23:18.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Basket.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
@@ -562,12 +620,11 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T14:19:36.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:19:36.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "BasketMapper.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
@@ -579,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Basket.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
@@ -587,12 +644,11 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T14:16:41.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:16:41.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
@@ -604,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "products.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\SeedData\\products.json",
@@ -616,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Properties\\launchSettings.json",
@@ -628,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\appsettings.json",
@@ -640,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "CatalogController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
@@ -652,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\WeatherForecastController.cs",
@@ -664,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "GetProductByNameQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Application\\Handlers\\GetProductByNameQueryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\GetProductByNameQueryHandler.cs",
@@ -676,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "GetBasketByUserNameHandler.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\GetBasketByUserNameHandler.cs",
@@ -688,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "BrandContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\BrandContextSeed.cs",
@@ -700,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "ApiController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Controllers\\ApiController.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\ApiController.cs",
@@ -712,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\WeatherForecastController.cs",
@@ -724,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "GetBasketByUserNameQuery.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Queries\\GetBasketByUserNameQuery.cs",
@@ -736,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "ApiController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
@@ -748,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 60,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Startup.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Startup.cs",
@@ -760,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
@@ -772,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "BasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Repository\\BasketRepository.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Infrastructure\\Repository\\BasketRepository.cs",
@@ -784,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 59,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\WeatherForecast.cs",
@@ -796,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.API\\Startup.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Startup.cs",
@@ -808,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "ShoppingCartItem.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\ShoppingCartItem.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\ShoppingCartItem.cs",
@@ -820,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "BasketCheckout.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
@@ -832,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "BasketCheckoutV2.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckoutV2.cs",
@@ -844,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "Basket.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Basket.Core.csproj",
@@ -852,12 +908,11 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Core\\Basket.Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-08T14:25:11.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T14:25:11.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Class1.cs",
@@ -869,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Infrastructure\\Class1.cs",
@@ -881,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Class1.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Class1.cs",
@@ -893,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "CatalogContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContextSeed.cs",
@@ -905,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "TypeContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\TypeContextSeed.cs",
@@ -917,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "CatalogSpecParams.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Specs\\CatalogSpecParams.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Specs\\CatalogSpecParams.cs",
@@ -929,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "Pagination.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Catalog\\Catalog.Core\\Specs\\Pagination.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Specs\\Pagination.cs",
