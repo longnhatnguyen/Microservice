@@ -1,0 +1,16 @@
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Application.deps.json
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Application.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Application.pdb
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Core.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\bin\Debug\net6.0\Ordering.Core.pdb
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.sourcelink.json
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.50CBBEA9.Up2Date
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\refint\Ordering.Application.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\Ordering.Application.pdb
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.Application\obj\Debug\net6.0\ref\Ordering.Application.dll
