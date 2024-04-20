@@ -3,214 +3,270 @@
   "WorkspaceRootPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\infrastructure\\eventbus.messages\\events\\basketcheckoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|solutionrelative:infrastructure\\eventbus.messages\\events\\basketcheckoutevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\infrastructure\\eventbus.messages\\events\\baseintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|solutionrelative:infrastructure\\eventbus.messages\\events\\baseintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\infrastructure\\eventbus.messages\\common\\eventbusconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|solutionrelative:infrastructure\\eventbus.messages\\common\\eventbusconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumerv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\eventbusconsumer\\basketorderingconsumerv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\basket.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\basket.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\basket\\basket.application\\handlers\\createshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\handlers\\createshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount\\discount.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.application\\mappers\\basketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\mappers\\basketmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.application\\mappers\\basketmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\mappers\\basketmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.core\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42342C2F-71D9-4264-AA69-1EE024AB1663}|Services\\Basket\\Basket.Core\\Basket.Core.csproj|solutionrelative:services\\basket\\basket.core\\entities\\basketcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\infrastructure\\eventbus.messages\\events\\basketcheckouteventv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|solutionrelative:infrastructure\\eventbus.messages\\events\\basketcheckouteventv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\infrastructure\\eventbus.messages\\eventbus.messages.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FD6A3AA-418C-4459-8202-9D84ED85C791}|Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj|solutionrelative:infrastructure\\eventbus.messages\\eventbus.messages.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\handlers\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\handlers\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\handlers\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.core\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.core\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|solutionrelative:services\\ordering\\ordering.core\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.infrastructure\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\data\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\data\\ordercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.infrastructure\\data\\ordercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\data\\ordercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\responses\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\responses\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\responses\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\ordering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\ordering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|solutionrelative:services\\ordering\\ordering.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\data\\ordercontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.infrastructure\\data\\ordercontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\data\\ordercontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\wwin backup\\JWTAuth\\JWTAuth.WebApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2F8E438-8FDC-412A-B91C-0CBB35D2DA98}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2F8E438-8FDC-412A-B91C-0CBB35D2DA98}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2F8E438-8FDC-412A-B91C-0CBB35D2DA98}|Services\\Discount\\Discount.Infrastructure\\Discount.Infrastructure.csproj|solutionrelative:services\\discount\\discount.infrastructure\\extensions\\dbextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|solutionrelative:services\\ordering\\ordering.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\extensions\\infraservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.infrastructure\\extensions\\infraservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\extensions\\infraservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71723431-D3B4-43A7-8AA9-50579A7B4040}|Services\\Ordering\\Ordering.API\\Ordering.API.csproj|solutionrelative:services\\ordering\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\extensions\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\extensions\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\extensions\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\commands\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\commands\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\commands\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\validators\\updateordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\validators\\updateordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\validators\\updateordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\commands\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\commands\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\commands\\checkoutordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\commands\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\commands\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\commands\\deleteordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\validators\\checkoutordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\validators\\checkoutordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\validators\\checkoutordercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\handlers\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\handlers\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\handlers\\deleteordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\handlers\\checkoutordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\handlers\\checkoutordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\handlers\\checkoutordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\handlers\\getorderlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\handlers\\getorderlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\handlers\\getorderlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\basket\\basket.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount\\discount.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount\\discount.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\mappers\\ordermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\queries\\getorderlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\queries\\getorderlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\queries\\getorderlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.core\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.core\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|solutionrelative:services\\ordering\\ordering.core\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.core\\ordering.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.core\\ordering.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|solutionrelative:services\\ordering\\ordering.core\\ordering.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{831BFA0C-70B0-445B-BDB3-0C18C4F25CF6}|Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj|solutionrelative:services\\ordering\\ordering.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF07AC08-88B4-409B-A30D-BCDA6B8FB033}|Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj|solutionrelative:services\\ordering\\ordering.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\ordering\\ordering.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\ordering\\ordering.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACAECE81-9180-4ADF-B2FF-3F608A229FDE}|Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj|solutionrelative:services\\ordering\\ordering.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.application\\handlers\\createshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\handlers\\createshoppingcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B1AF5E-8B22-4441-83C4-E9FF0222F156}|Services\\Discount\\Discount.API\\Discount.API.csproj|solutionrelative:services\\discount\\discount.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456EA780-4920-48FF-A494-91FE1ECC9AA0}|Services\\Basket\\Basket.API\\Basket.API.csproj|solutionrelative:services\\basket\\basket.api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5D85816-D686-4C46-AF84-C66E72D2B95C}|Services\\Discount\\Discount.Core\\Discount.Core.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.core\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5D85816-D686-4C46-AF84-C66E72D2B95C}|Services\\Discount\\Discount.Core\\Discount.Core.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.core\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5D85816-D686-4C46-AF84-C66E72D2B95C}|Services\\Discount\\Discount.Core\\Discount.Core.csproj|solutionrelative:services\\discount\\discount.core\\entities\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.application\\commands\\creatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.application\\commands\\creatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\commands\\creatediscountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.application\\handlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.application\\handlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\handlers\\creatediscountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\discount\\discount.application\\queries\\getdiscountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\discount\\discount.application\\queries\\getdiscountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F52170F0-6CEF-45DA-947F-407381313E35}|Services\\Discount\\Discount.Application\\Discount.Application.csproj|solutionrelative:services\\discount\\discount.application\\queries\\getdiscountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|c:\\users\\seven77\\desktop\\micro\\microservice\\eshop\\eshop\\services\\basket\\basket.application\\grpcservice\\discountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\services\\basket\\basket.application\\grpcservice\\discountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EDCE3D7-2302-46A6-94A9-8041582D4A0E}|Services\\Basket\\Basket.Application\\Basket.Application.csproj|solutionrelative:services\\basket\\basket.application\\grpcservice\\discountgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -221,141 +277,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAMAAAA",
+              "DocumentIndex": 6,
+              "Title": "BasketOrderingConsumerV2.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumerV2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:05:25.496Z",
+              "WhenOpened": "2024-04-19T15:01:21.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketOrderingConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\EventBusConsumer\\BasketOrderingConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:01:01.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Startup.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Startup.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:10:08.832Z",
+              "WhenOpened": "2024-04-18T11:05:47.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Ordering.Application",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Title": "Basket.Application",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Basket.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T07:33:53.417Z",
+              "WhenOpened": "2024-04-19T14:07:30.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "OrderContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:19:16.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ordering.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T07:34:20.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:12:14.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAsyncRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAASwA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:04:34.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAApwA8AAAAIAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwB0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T13:41:43.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA4AAAA",
+              "DocumentIndex": 1,
+              "Title": "BasketCheckoutEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEvent.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEvent.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEvent.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:04:19.33Z",
+              "WhenOpened": "2024-04-19T13:58:46.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderContext.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAhwA4AAAAbAAAA",
+              "DocumentIndex": 2,
+              "Title": "BaseIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Events\\BaseIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Events\\BaseIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Events\\BaseIntegrationEvent.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus.Messages\\Events\\BaseIntegrationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:12:21.754Z",
+              "WhenOpened": "2024-04-19T13:58:37.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
+              "Title": "EventBusConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Common\\EventBusConstants.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Common\\EventBusConstants.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Common\\EventBusConstants.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus.Messages\\Common\\EventBusConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:58:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Program.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:41:43.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.json",
@@ -368,7 +411,274 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ordering.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T07:33:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
+              "RelativeToolTip": "Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:25:32.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T09:59:46.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ordering.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T07:33:53.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAhwFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:20:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Startup.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Startup.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:04:46.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Basket.API",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "RelativeToolTip": "Services\\Basket\\Basket.API\\Basket.API.csproj",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwB4AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T14:01:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasketCheckout.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Core\\Entities\\BasketCheckout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:06:39.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BasketMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Mappers\\BasketMapper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:06:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateShoppingCartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAApwB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:20:46.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Mappers\\BasketMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:06:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasketCheckoutEventV2.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus.Messages\\Events\\BasketCheckoutEventV2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:58:56.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventBus.Messages",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj",
+              "RelativeToolTip": "Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T13:57:25.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:10:08.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Handlers\\UpdateOrderCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:05:25.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:19:16.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ordering.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T07:34:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Responses\\OrderResponse.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:12:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Core\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:04:34.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Core\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:04:19.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:12:21.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
@@ -376,12 +686,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Repositories\\OrderRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:30:58.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T08:30:58.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 38,
               "Title": "DbExtension.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
@@ -389,12 +698,11 @@
               "RelativeToolTip": "Services\\Discount\\Discount.Infrastructure\\Extensions\\DbExtension.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAxwCEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:31:32.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:31:32.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 33,
               "Title": "OrderContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextSeed.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextSeed.cs",
@@ -402,25 +710,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Data\\OrderContextSeed.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwCgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:19:46.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T08:19:46.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Startup.cs",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Startup.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Startup.cs",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Startup.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAwwDwAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T11:05:47.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Program.cs",
@@ -428,12 +722,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:59:24.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:59:24.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Controllers\\WeatherForecastController.cs",
@@ -441,23 +734,21 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T14:24:27.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:24:27.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\wwin backup\\JWTAuth\\JWTAuth.WebApi\\appsettings.json",
               "ToolTip": "E:\\wwin backup\\JWTAuth\\JWTAuth.WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T14:14:32.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T14:14:32.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
@@ -465,12 +756,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T13:59:59.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T13:59:59.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 37,
               "Title": "DbExtension.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Extensions\\DbExtension.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Extensions\\DbExtension.cs",
@@ -478,12 +768,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Extensions\\DbExtension.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T11:03:19.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T11:03:19.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 41,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\appsettings.Development.json",
@@ -491,12 +780,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T09:59:52.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T09:59:52.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 42,
               "Title": "ApiController.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Controllers\\ApiController.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Controllers\\ApiController.cs",
@@ -504,12 +792,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Controllers\\ApiController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:41:19.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T13:41:19.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "InfraServices.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Extensions\\InfraServices.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Extensions\\InfraServices.cs",
@@ -517,12 +804,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Extensions\\InfraServices.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:35:00.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T08:35:00.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 39,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Entities\\Order.cs",
@@ -530,12 +816,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Core\\Entities\\Order.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:01:57.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T08:01:57.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
               "Title": "CheckoutOrderCommand.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommand.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommand.cs",
@@ -543,12 +828,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Commands\\CheckoutOrderCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:16:07.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:16:07.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "UpdateOrderCommand.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Commands\\UpdateOrderCommand.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Commands\\UpdateOrderCommand.cs",
@@ -556,12 +840,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Commands\\UpdateOrderCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:17:08.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:17:08.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 45,
               "Title": "UpdateOrderCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Validators\\UpdateOrderCommandValidator.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Validators\\UpdateOrderCommandValidator.cs",
@@ -569,12 +852,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Validators\\UpdateOrderCommandValidator.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:23:37.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:23:37.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Extensions\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Extensions\\ServiceRegistration.cs",
@@ -582,25 +864,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Extensions\\ServiceRegistration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:57:07.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:57:07.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Ordering.API",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "RelativeToolTip": "Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T07:33:10.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "DeleteOrderCommand.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Commands\\DeleteOrderCommand.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Commands\\DeleteOrderCommand.cs",
@@ -608,12 +876,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Commands\\DeleteOrderCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:17:06.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:17:06.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 48,
               "Title": "CheckoutOrderCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
@@ -621,12 +888,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Validators\\CheckoutOrderCommandValidator.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwAoAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:15:18.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:15:18.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 49,
               "Title": "DeleteOrderCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Handlers\\DeleteOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\DeleteOrderCommandHandler.cs",
@@ -634,25 +900,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Handlers\\DeleteOrderCommandHandler.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:02:14.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:02:14.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T09:59:46.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 52,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\appsettings.Development.json",
@@ -660,12 +912,11 @@
               "RelativeToolTip": "Services\\Basket\\Basket.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T09:59:45.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T09:59:45.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 50,
               "Title": "CheckoutOrderCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Handlers\\CheckoutOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\CheckoutOrderCommandHandler.cs",
@@ -673,12 +924,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Handlers\\CheckoutOrderCommandHandler.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:52:54.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T09:52:54.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 51,
               "Title": "GetOrderListQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Handlers\\GetOrderListQueryHandler.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Handlers\\GetOrderListQueryHandler.cs",
@@ -686,12 +936,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Handlers\\GetOrderListQueryHandler.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:45:11.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T09:45:11.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 55,
               "Title": "OrderMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
@@ -699,12 +948,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Mappers\\OrderMappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:15:31.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T09:15:31.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 56,
               "Title": "GetOrderListQuery.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Queries\\GetOrderListQuery.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Queries\\GetOrderListQuery.cs",
@@ -712,12 +960,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Queries\\GetOrderListQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:12:41.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T09:12:41.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 54,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\appsettings.Development.json",
@@ -725,12 +972,11 @@
               "RelativeToolTip": "Services\\Discount\\Discount.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T06:27:51.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:27:51.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 53,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\appsettings.json",
@@ -738,12 +984,11 @@
               "RelativeToolTip": "Services\\Discount\\Discount.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-18T06:27:52.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:27:52.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 57,
               "Title": "EntityBase.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Common\\EntityBase.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Common\\EntityBase.cs",
@@ -751,13 +996,12 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Core\\Common\\EntityBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T08:01:33.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T08:01:33.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Ordering.Core",
+              "DocumentIndex": 58,
+              "Title": "Ordering.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj",
               "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Ordering.Core.csproj",
@@ -769,7 +1013,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 60,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Infrastructure\\Class1.cs",
@@ -777,12 +1021,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Infrastructure\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:00:09.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T07:00:09.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 59,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Core\\Class1.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Core\\Class1.cs",
@@ -790,12 +1033,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Core\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:59:56.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:59:56.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 61,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Services\\Ordering\\Ordering.Application\\Class1.cs",
@@ -803,12 +1045,11 @@
               "RelativeToolTip": "Services\\Ordering\\Ordering.Application\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:58:42.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:58:42.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 62,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.Core\\Entities\\Coupon.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Core\\Entities\\Coupon.cs",
@@ -816,25 +1057,11 @@
               "RelativeToolTip": "Services\\Discount\\Discount.Core\\Entities\\Coupon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:31:28.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:31:28.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "DiscountService.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
-              "RelativeDocumentMoniker": "Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
-              "RelativeToolTip": "Services\\Discount\\Discount.API\\Services\\DiscountService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:25:32.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 63,
               "Title": "CreateDiscountCommand.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
@@ -842,12 +1069,11 @@
               "RelativeToolTip": "Services\\Discount\\Discount.Application\\Commands\\CreateDiscountCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:27:41.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:27:41.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 65,
               "Title": "GetDiscountQuery.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.Application\\Queries\\GetDiscountQuery.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Queries\\GetDiscountQuery.cs",
@@ -855,38 +1081,11 @@
               "RelativeToolTip": "Services\\Discount\\Discount.Application\\Queries\\GetDiscountQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:27:36.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:27:36.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.API\\Controllers\\BasketController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowDQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:20:18.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CreateShoppingCartCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "RelativeToolTip": "Services\\Basket\\Basket.Application\\Handlers\\CreateShoppingCartCommandHandler.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwBwAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:20:46.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 64,
               "Title": "CreateDiscountCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
               "RelativeDocumentMoniker": "Services\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
@@ -894,12 +1093,11 @@
               "RelativeToolTip": "Services\\Discount\\Discount.Application\\Handlers\\CreateDiscountCommandHandler.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:27:39.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:27:39.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 66,
               "Title": "DiscountGrpcService.cs",
               "DocumentMoniker": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
@@ -907,8 +1105,7 @@
               "RelativeToolTip": "Services\\Basket\\Basket.Application\\GrpcService\\DiscountGrpcService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:20:15.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T06:20:15.179Z"
             }
           ]
         }

@@ -99,3 +99,5 @@ C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Orderi
 C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.API\obj\Debug\net6.0\Ordering.API.pdb
 C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.API\obj\Debug\net6.0\Ordering.API.genruntimeconfig.cache
 C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.API\obj\Debug\net6.0\ref\Ordering.API.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.API\bin\Debug\net6.0\EventBus.Messages.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Ordering\Ordering.API\bin\Debug\net6.0\EventBus.Messages.pdb

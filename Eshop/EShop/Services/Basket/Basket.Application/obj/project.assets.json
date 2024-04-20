@@ -421,6 +421,16 @@
         "runtime": {
           "bin/placeholder/Basket.Core.dll": {}
         }
+      },
+      "EventBus.Messages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EventBus.Messages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventBus.Messages.dll": {}
+        }
       }
     }
   },
@@ -1049,12 +1059,18 @@
       "type": "project",
       "path": "../Basket.Core/Basket.Core.csproj",
       "msbuildProject": "../Basket.Core/Basket.Core.csproj"
+    },
+    "EventBus.Messages/1.0.0": {
+      "type": "project",
+      "path": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj",
+      "msbuildProject": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Basket.Core >= 1.0.0",
+      "EventBus.Messages >= 1.0.0",
       "Grpc.AspNetCore >= 2.51.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 11.1.0"
     ]
@@ -1086,6 +1102,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj": {
+              "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj"
+            },
             "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Basket.Core.csproj": {
               "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Basket\\Basket.Core\\Basket.Core.csproj"
             }

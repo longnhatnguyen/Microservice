@@ -1403,6 +1403,16 @@
           }
         }
       },
+      "EventBus.Messages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EventBus.Messages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventBus.Messages.dll": {}
+        }
+      },
       "Ordering.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3774,6 +3784,11 @@
         "version.txt"
       ]
     },
+    "EventBus.Messages/1.0.0": {
+      "type": "project",
+      "path": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj",
+      "msbuildProject": "../../../Infrastructure/EventBus.Messages/EventBus.Messages.csproj"
+    },
     "Ordering.Application/1.0.0": {
       "type": "project",
       "path": "../Ordering.Application/Ordering.Application.csproj",
@@ -3793,6 +3808,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AspNetCore.HealthChecks.UI.Client >= 6.0.5",
+      "EventBus.Messages >= 1.0.0",
       "MassTransit >= 7.3.0",
       "MassTransit.AspNetCore >= 7.3.0",
       "MassTransit.RabbitMQ >= 7.3.0",
@@ -3833,6 +3849,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj": {
+              "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Infrastructure\\EventBus.Messages\\EventBus.Messages.csproj"
+            },
             "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj": {
               "projectPath": "C:\\Users\\Seven77\\Desktop\\Micro\\Microservice\\Eshop\\EShop\\Services\\Ordering\\Ordering.Application\\Ordering.Application.csproj"
             },

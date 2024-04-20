@@ -97,3 +97,5 @@ C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Basket\Basket.A
 C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Basket\Basket.API\obj\Debug\net6.0\Basket.API.pdb
 C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Basket\Basket.API\obj\Debug\net6.0\Basket.API.genruntimeconfig.cache
 C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Basket\Basket.API\obj\Debug\net6.0\ref\Basket.API.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Basket\Basket.API\bin\Debug\net6.0\EventBus.Messages.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\Services\Basket\Basket.API\bin\Debug\net6.0\EventBus.Messages.pdb

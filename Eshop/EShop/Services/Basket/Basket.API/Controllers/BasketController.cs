@@ -1,13 +1,18 @@
 ﻿using Basket.Application.Commands;
 using Basket.Application.GrpcService;
 using Basket.Application.Handlers;
+using Basket.Application.Mappers;
 using Basket.Application.Queries;
 using Basket.Application.Responses;
+using Basket.Core.Entities;
 using Catalog.API.Controllers;
+using EventBus.Messages.Events;
+using MassTransit;
 using MassTransit.NewIdProviders;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Query.Internal;
 using System.Net;
 
 namespace Basket.API.Controllers
@@ -17,12 +22,16 @@ namespace Basket.API.Controllers
     public class BasketController : ApiController
     {
         private readonly IMediator _mediator;
+        private readonly IPublishEndpoint _publishEndpoint;
         private readonly DiscountGrpcService _discountGrpcService;
+        //private readonly ICorrelationIdGenerator _correlationIdGenerator;
 
-        public BasketController(IMediator mediator, DiscountGrpcService discountGrpcService)
+
+        public BasketController(IMediator mediator, IPublishEndpoint publishEndpoint, DiscountGrpcService discountGrpcService)
         {
             _mediator = mediator;
             _discountGrpcService = discountGrpcService;
+            _publishEndpoint = publishEndpoint;
         }
 
         [HttpGet]
@@ -59,6 +68,28 @@ namespace Basket.API.Controllers
         {
             var query = new DeleteBasketByUserNameQuery(userName);
             return Ok(await _mediator.Send(query));
+        }
+
+        [Route("action")]
+        [HttpPost]
+        [ProducesResponseType((int)HttpStatusCode.Accepted)]
+        [ProducesResponseType((int)HttpStatusCode.BadRequest)]
+        public async Task<IActionResult> Checkout([FromBody] BasketCheckout basketCheckout)
+        {
+            var query = new GetBasketByUserNameQuery(basketCheckout.UserName);
+            var basket = await _mediator.Send(query);
+            if (basket == null)
+            {
+                return BadRequest();
+            }
+            var eventMesg = BasketMapper.Mapper.Map<BasketCheckoutEvent>(basketCheckout);
+            eventMesg.TotalPrice = basket.TotalPrice;
+            //eventMesg.CorrelationId = _correlationIdGenerator.Get();
+            await _publishEndpoint.Publish(eventMesg);
+            //remove the basket
+            var deleteQuery = new DeleteBasketByUserNameQuery(basketCheckout.UserName);
+            await _mediator.Send(deleteQuery);
+            return Accepted();
         }
     }
 }

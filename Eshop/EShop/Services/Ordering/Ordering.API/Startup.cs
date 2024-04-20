@@ -1,7 +1,9 @@
-﻿using HealthChecks.UI.Client;
+﻿using EventBus.Messages.Common;
+using HealthChecks.UI.Client;
 using MassTransit;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.OpenApi.Models;
+using Ordering.API.EventBusConsumer;
 using Ordering.Application.Extensions;
 using Ordering.Infrastructure.Data;
 using Ordering.Infrastructure.Extensions;
@@ -25,8 +27,8 @@ namespace Ordering.API
             services.AddApplicationServices();
             services.AddInfraServices(Configuration);
             services.AddAutoMapper(typeof(Startup));
-            //services.AddScoped<BasketOrderingConsumer>();
-            //services.AddScoped<BasketOrderingConsumerV2>();
+            services.AddScoped<BasketOrderingConsumer>();
+            services.AddScoped<BasketOrderingConsumerV2>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Ordering.API", Version = "v1" });
@@ -35,8 +37,8 @@ namespace Ordering.API
             services.AddMassTransit(config =>
             {
                 //Mark this as consumer
-                //config.AddConsumer<BasketOrderingConsumer>();
-                //config.AddConsumer<BasketOrderingConsumerV2>();
+                config.AddConsumer<BasketOrderingConsumer>();
+                config.AddConsumer<BasketOrderingConsumerV2>();
                 config.UsingRabbitMq((ctx, cfg) =>
                 {
                     cfg.Host(Configuration["EventBusSettings:HostAddress"]);
@@ -46,10 +48,10 @@ namespace Ordering.API
                     //    c.ConfigureConsumer<BasketOrderingConsumer>(ctx);
                     //});
                     ////V2 endpoint will pick items from here 
-                    //cfg.ReceiveEndpoint(EventBusConstants.BasketCheckoutQueueV2, c =>
-                    //{
-                    //    c.ConfigureConsumer<BasketOrderingConsumerV2>(ctx);
-                    //});
+                    cfg.ReceiveEndpoint(EventBusConstants.BasketCheckoutQueueV2, c =>
+                    {
+                        c.ConfigureConsumer<BasketOrderingConsumerV2>(ctx);
+                    });
                 });
             });
             services.AddMassTransitHostedService();

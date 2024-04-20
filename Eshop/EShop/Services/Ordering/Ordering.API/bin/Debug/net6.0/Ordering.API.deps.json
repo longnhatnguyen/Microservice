@@ -9,6 +9,7 @@
       "Ordering.API/1.0.0": {
         "dependencies": {
           "AspNetCore.HealthChecks.UI.Client": "6.0.5",
+          "EventBus.Messages": "1.0.0",
           "MassTransit": "7.3.0",
           "MassTransit.AspNetCore": "7.3.0",
           "MassTransit.RabbitMQ": "7.3.0",
@@ -815,6 +816,11 @@
           }
         }
       },
+      "EventBus.Messages/1.0.0": {
+        "runtime": {
+          "EventBus.Messages.dll": {}
+        }
+      },
       "Ordering.Application/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
@@ -1433,6 +1439,11 @@
       "sha512": "sha512-CeWTdRNfRaSh0pm2gDTJFwVaXfTq6Xwv/sA887iwPTneW7oMtMlpvDIO+U60+3GWTB7Aom6oQwv5VZVUhQRdPQ==",
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
+    },
+    "EventBus.Messages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Ordering.Application/1.0.0": {
       "type": "project",

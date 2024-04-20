@@ -7,7 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Basket.Core\Basket.Core.csproj" />
+	  <ProjectReference Include="..\..\..\Infrastructure\EventBus.Messages\EventBus.Messages.csproj" />
+	  <ProjectReference Include="..\Basket.Core\Basket.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
