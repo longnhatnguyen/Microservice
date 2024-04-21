@@ -8,6 +8,9 @@ using MediatR;
 using HealthChecks.UI.Client;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Catalog.Infrastructure.Data;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Mvc.Authorization;
+using Microsoft.AspNetCore.Authorization;
 namespace Catalog.API
 {
     public class Startup
@@ -38,7 +41,25 @@ namespace Catalog.API
             services.AddScoped<IBrandRepository, ProductRepository>();
             services.AddScoped<ITypesRepository, ProductRepository>();
             services.AddControllers();
+            // identity
+            var userPolicy = new AuthorizationPolicyBuilder()
+                .RequireAuthenticatedUser()
+                .Build();
+            services.AddControllers(config =>
+            {
+                config.Filters.Add(new AuthorizeFilter(userPolicy));
+            });
 
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                    .AddJwtBearer(options =>
+                    {
+                        options.Authority = "https://localhost:9009";
+                        options.Audience = "Catalog";
+                    });
+            services.AddAuthorization(options =>
+            {
+                options.AddPolicy("CanRead", policy => policy.RequireClaim("scope", "catalogapi.read"));
+            });
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -51,6 +72,7 @@ namespace Catalog.API
             }
             app.UseRouting();
             app.UseAuthorization();
+            app.UseAuthentication();
             app.UseStaticFiles();
             app.UseEndpoints(endpoints =>
             {

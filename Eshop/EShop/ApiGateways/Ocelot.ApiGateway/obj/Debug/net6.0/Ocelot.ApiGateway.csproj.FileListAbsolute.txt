@@ -1,0 +1,13 @@
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\bin\Debug\net6.0\Ocelot.ApiGateway.deps.json
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\bin\Debug\net6.0\Ocelot.ApiGateway.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\bin\Debug\net6.0\Ocelot.ApiGateway.pdb
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.csproj.AssemblyReference.cache
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.AssemblyInfo.cs
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.sourcelink.json
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\refint\Ocelot.ApiGateway.dll
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\Ocelot.ApiGateway.pdb
+C:\Users\Seven77\Desktop\Micro\Microservice\Eshop\EShop\ApiGateways\Ocelot.ApiGateway\obj\Debug\net6.0\ref\Ocelot.ApiGateway.dll
